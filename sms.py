@@ -16,16 +16,16 @@
 # UTL contact: Kevin <kevin.okura@utl.co.ug>
 
 METADATA = {
-    "uname":        "jerm",
-    "pswd":         "jerm321",
+    "uname":        "------",
+    "pswd":         "-------",
     "service":      "SMPP",
     "bind-mode":    "transmitter",
-    "host":         "192.100.202.139",
-    "port":         6200,
+    "host":         "XXX.XXX.XXX.XXX",
+    "port":         PPPP,
     
-    "source-number": "256714442200",
+    "source-number": "nnnnnnnnnnnn",
     # set the prefix as this service is ONLY intended for the UTL-AMS RT
-    "number-prefix": "25671",
+    "number-prefix": "pppp",
 }
 
 SETUP_OK = False 
